@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Первый канал HD",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_pervy_channel.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "pervy",
+    "category": "News"
+  },
+  {
+    "name": "Россия 1 HD",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_russia_1.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "rossia1",
+    "category": "News"
+  },
+  {
+    "name": "СТС",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_sts.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "sts",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ТНТ",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_sts.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "tnt",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Муз-ТВ",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_muztv.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "muztv",
+    "category": "Music"
+  },
+  {
+    "name": "RU TV",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_rutv.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "ru-tv",
+    "category": "Music"
+  },
+  {
+    "name": "НТВ",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_ntv.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "ru-tv",
+    "category": "Entertainment"
+  },
+  {
+    "name": "5 канал",
+    "logo": "",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "5kanal-ru",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ТВЦ",
+    "logo": "",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "tvcentr",
+    "category": "Entertainment"
+  },
+  {
+    "name": "СПАС",
+    "logo": "",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "spas",
+    "category": "Religion"
+  },
+  {
+    "name": "Домашний",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_domashnyy.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "domashny",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ТВ3",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_tv3.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "tv3-ru",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Домашний",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_domashnyy.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "domashny",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Пятница!",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_friday.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "piatnica",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Звезда",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_zvezda.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "zvezda",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Мир",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_mir.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "mir",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ЧЕ",
+    "logo": "https://www.cableman.ru/sites/default/files/che_0.png?1534317842",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "che",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Известия",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_izvestia.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "izvestia",
+    "category": "News"
+  },
+  {
+    "name": "СТС Love",
+    "logo": "",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "sts-love",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Ю",
+    "logo": "https://epg.iptvx.one/icn/yu.png",
+    "sources":[
+      {
+        "owner":"other",
+        "url":""
+      }
+    ],
+    "adTagVast": "",
+    "scheduleName": "yu",
+    "category": "Entertainment"
+  }
+]

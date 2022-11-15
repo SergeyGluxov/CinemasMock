@@ -65,19 +65,6 @@
     "category": "Music"
   },
   {
-    "name": "RU TV",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_rutv.png",
-    "sources":[
-      {
-        "owner":"other",
-        "url":""
-      }
-    ],
-    "adTagVast": "",
-    "scheduleName": "ru-tv",
-    "category": "Music"
-  },
-  {
     "name": "НТВ",
     "logo": "https://vagontv.github.io/vagon/logo/ic_ntv.png",
     "sources":[

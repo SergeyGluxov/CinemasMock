@@ -117,19 +117,6 @@
     "category": "Religion"
   },
   {
-    "name": "Домашний",
-    "logo": "https://vagontv.github.io/vagon/logo/ic_domashnyy.png",
-    "sources":[
-      {
-        "owner":"other",
-        "url":""
-      }
-    ],
-    "adTagVast": "",
-    "scheduleName": "domashny",
-    "category": "Entertainment"
-  },
-  {
     "name": "ТВ3",
     "logo": "https://vagontv.github.io/vagon/logo/ic_tv3.png",
     "sources":[

@@ -79,7 +79,7 @@
   },
   {
     "name": "5 канал",
-    "logo": "",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_5ch.png",
     "sources":[
       {
         "owner":"other",
@@ -92,7 +92,7 @@
   },
   {
     "name": "ТВЦ",
-    "logo": "",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_tvc.png",
     "sources":[
       {
         "owner":"other",
@@ -105,7 +105,7 @@
   },
   {
     "name": "СПАС",
-    "logo": "",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_spas.png",
     "sources":[
       {
         "owner":"other",
@@ -209,7 +209,7 @@
   },
   {
     "name": "СТС Love",
-    "logo": "",
+    "logo": "https://vagontv.github.io/vagon/logo/ic_sts_love.png",
     "sources":[
       {
         "owner":"other",

@@ -225,7 +225,7 @@
         "vitrina_info": {
             "code_name": "domashniy_ext/vitrinatv_web",
             "api": "api",
-            "company": "dom",
+            "company": "doma",
             "file": "ctc-dom_as_array.json",
             "egress_version": 905431
         },

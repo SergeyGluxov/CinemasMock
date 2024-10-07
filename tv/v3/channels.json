@@ -24,7 +24,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/russia1/russia1/streams.json",
-            "video_url":"/russia1/vitrinatv_web/player.html"
+            "video_url":"/russia1/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "rossia1",
@@ -41,7 +42,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/russia24/russia24/streams.json",
-            "video_url":"/russia24/vitrinatv_web/player.html"
+            "video_url":"/russia24/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "rossia24",
@@ -58,7 +60,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "sts",
@@ -75,7 +78,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "tnt",
@@ -92,7 +96,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "muztv",
@@ -109,7 +114,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "ntv",
@@ -126,7 +132,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "5kanal-ru",
@@ -143,7 +150,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "tvcentr",
@@ -160,7 +168,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "spas",
@@ -177,7 +186,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "tv3-ru",
@@ -194,7 +204,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "domashny",
@@ -211,7 +222,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "piatnica",
@@ -228,7 +240,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "zvezda",
@@ -245,7 +258,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "mir",
@@ -262,7 +276,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "che",
@@ -279,7 +294,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "izvestia",
@@ -296,7 +312,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "sts-love",
@@ -313,7 +330,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "yu",
@@ -330,7 +348,8 @@
         ],
         "vitrina_info": {
             "path":"/balancer/v3/ctc/ctc_msk4/streams.json",
-            "video_url":"/ctc_ext/vitrinatv_web/player.html"
+            "video_url":"/ctc_ext/vitrinatv_web/player.html",
+            "egress_version": 2739643
         },
         "adTagVast": "",
         "scheduleName": "solntse",
